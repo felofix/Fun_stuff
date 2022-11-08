@@ -1,1 +1,2 @@
-# Fun_stuff
+# Fun stuff
+Fun programming tasks. 
